@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm a CSE student with a passion for Coding. I lov
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Java,C,C++,HTML,CSS,Javascript
-- **Frameworks:** React , NodeJs
+- **Languages:** Java,C++,HTML,CSS,Javascript
+- **Frameworks:** React , NodeJs , ExpressJs
 - **Databases:** SQL,MongoBD
 - **Tools:** GIT 
 - **Platforms:** Github
