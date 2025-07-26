@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a CSE student with a passion for Coding. I lov
 - **Tools:** GIT 
 - **Platforms:** Github
 
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishree-k&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ## 📫 Connect with Me
 
 - **LinkedIn** www.linkedin.com/in/abhishree-k1203
