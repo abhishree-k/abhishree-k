@@ -5,9 +5,7 @@ Welcome to my GitHub profile! I'm a CSE student with a passion for Coding. I lov
 ## 🚀 About Me
 
 - 🔭 I’m currently working on Full stack development.
-- 🌱 I’m currently learning REACT.
-- 🤔 I’m looking for help with open source contributions.
-- 🎯 I will be learning GoLang in next few months.
+
 
 ## 🛠️ Technologies & Tools
 
