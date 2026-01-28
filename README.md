@@ -15,6 +15,8 @@ Welcome to my GitHub profile! I'm a CSE student with a passion for Coding. I lov
 - **Tools:** GIT 
 - **Platforms:** Github
   
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishree-k&layout=compact&theme=dark&hide_border=true)
+
 
 ## 📫 Connect with Me
 
