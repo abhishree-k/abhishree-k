@@ -26,4 +26,4 @@ Welcome to my GitHub profile! I'm a CSE student with a passion for Coding. I lov
 
 Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate!
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhishree-k&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=abhishree-k&color=babypink)
